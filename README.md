@@ -67,3 +67,7 @@
 - Q1:RandomForest、MLP、SVR、LinearRegression、Lasso 、高斯过程回归 (GaussianProcessRegressor) 以及 XGBoost，最后高斯过程回归 (GaussianProcessRegressor)与XGBoost表现最佳
 - Q2:XGBoost、CatBoost、三层神经网络，最后XGBoost表现最佳
 - Q3/Q4:LSTM
+
+### ___注___
+
+数据预处理代码及部分预处理后的数据集在数据预处理.zip中
